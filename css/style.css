@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+
+body{
+	background-image:url("../images/background.jpg"); 
+	background-repeat:no-repeat; 
+	background-position:center; 
+	background-size:cover; 
+	padding:10px;
+	height:100%
+}
+
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+
+.form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+
+.dashboard-div {
+  background: #fff none repeat scroll 0 0;
+  border-radius: 20px;
+  margin: 10px auto 30px;
+  max-width: 90%;
+  min-width: 800px;
+  padding: 30px 10px 20px 10px;
+}
+
+.registration-div {
+  background: #fff none repeat scroll 0 0;
+  border-radius: 20px;
+  margin: 10px auto 30px;
+  max-width: 50%;
+  min-width: 500px;
+  padding: 50px 70px 20px 71px;
+}
+
+.login-div {
+  background: #fff none repeat scroll 0 0;
+  border-radius: 20px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  min-width: 300px;
+  padding: 50px 70px 20px 71px;
+}
+
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.img_construction{
+	width: 350px;
+	height: 350px;
+}
